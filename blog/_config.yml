@@ -69,5 +69,5 @@ theme: hiker
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/xspace/xspace.github.io.git
+  repository: https://github.com/xspace07/xspace07.github.io.git
   branch: master
